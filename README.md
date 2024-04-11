@@ -1,3 +1,13 @@
 # ML4HC_project1
 
-Part 1: https://colab.research.google.com/drive/1c30fEr7m41FvtcHKofLEry_YQua9iUWY?usp=sharing
+## Part 1
+
+To run the notebook for this part (`MLfHC_project1_pt1.ipynb`), you must first create a Python environment (version 3.10.13) and run
+
+```
+pip install -r requirements_pt1.txt
+```
+
+(or other equivalent calls)
+
+The notebook should then guide you sequentially through the code for this part of the project.
