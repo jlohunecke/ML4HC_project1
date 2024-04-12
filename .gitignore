@@ -2,4 +2,8 @@ ml4hc
 ml4hc_pt1
 ml4hc_pt2
 
+best_model
+model
+model_permuted
+
 .DS_Store
