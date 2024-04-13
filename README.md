@@ -1,15 +1,23 @@
 # ML4HC_project1
 
-To run the notebooks (`MLfHC_project1_pt1.ipynb` and `MLfHC_project1_pt2.ipynb`), you must first create a Python environment (version 3.10.13) and run
+To run the notebooks (`MLfHC_project1_pt1.ipynb` and `MLfHC_project1_pt2.ipynb`), you must first 
 
-```
-pip install -r requirements.txt
-```
-
-or set up the respective environments using
+1. Create a Python environment (version 3.10.13):
 
 ```
 python3.10 -m venv ml4hc_p1
+```
+
+2. Activate your environment
+
+```
+source ml4hc_p1/bin/activate
+```
+
+3. Install dependencies
+
+```
+pip install -r requirements.txt
 ```
 
 The notebooks should then guide you sequentially through the code for each part of the project. Make sure to have the data available at the locations specified by the paths in the notebooks.
